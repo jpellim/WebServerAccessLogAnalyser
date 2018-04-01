@@ -11,8 +11,8 @@ Program to read log file, find ips that made a certain  requests number in a giv
 ```
 
 ### Prerequisites
-* **Java 8
-* **MySQL Database
+* **Java 8**
+* **MySQL Database**
 
 ### Test Files Directories
 ```

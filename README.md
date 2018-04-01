@@ -11,4 +11,4 @@ Program to read log file, find ips that made a certain  requests number in a giv
 ```
     
 ### Prerequisites
-* * Java 8
+* Java 8

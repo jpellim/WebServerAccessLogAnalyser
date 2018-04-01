@@ -9,7 +9,19 @@ Program to read log file, find ips that made a certain  requests number in a giv
 4 - Run java program from command line:
     java -cp "parser.jar" com.ef.Parser --accesslog=C:\{Downloaded directory}\WebServerAccessLogAnalyser\log\access.txt --startDate=2017-01-01.13:00:10 --duration=daily --threshold=300
 ```
-    
+
 ### Prerequisites
+```
 * Java 8
 * MySQL Database
+```
+
+### Test Files Directories
+```
+\WebServerAccessLogAnalyser\dist - distribution folder - parser.jar
+\WebServerAccessLogAnalyser\log - access.txt file.
+\WebServerAccessLogAnalyser\deliverables - evidences files .png, SQLqueries and schema database.
+```
+
+## Authors
+* **Lucas Santiago**

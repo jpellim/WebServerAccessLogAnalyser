@@ -11,10 +11,8 @@ Program to read log file, find ips that made a certain  requests number in a giv
 ```
 
 ### Prerequisites
-```
 * **Java 8
 * **MySQL Database
-```
 
 ### Test Files Directories
 ```
@@ -23,5 +21,5 @@ Program to read log file, find ips that made a certain  requests number in a giv
 \WebServerAccessLogAnalyser\deliverables - evidences files .png, SQLqueries and schema database.
 ```
 
-## Authors
+## Author
 * **Lucas Santiago**

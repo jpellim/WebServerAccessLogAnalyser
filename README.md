@@ -16,8 +16,8 @@ Program to read log file, find ips that made a certain  requests number in a giv
 
 ### Test Files Directories
 ```
-\WebServerAccessLogAnalyser\dist - distribution folder - parser.jar
-\WebServerAccessLogAnalyser\log - access.txt file.
+\WebServerAccessLogAnalyser\dist - executable jar file parser.jar
+\WebServerAccessLogAnalyser\log - access log file.
 \WebServerAccessLogAnalyser\deliverables - evidences files .png, SQLqueries and schema database.
 ```
 

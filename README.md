@@ -3,7 +3,7 @@ Program to read log file, find ips that made a certain  requests number in a giv
 
 ## Getting Started
 ```
-1 - Pull the project
+1 - Pull the projectaaaa
 2 - Open windows prompt command
 3 - Access the project directory and then \dist
 4 - Run java program from command line:
